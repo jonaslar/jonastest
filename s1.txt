@@ -1,3 +1,5 @@
 Name: Jonas
 Address: Stange
 Country: Norway
+Capital: Oslo
+Language: Norwegian
